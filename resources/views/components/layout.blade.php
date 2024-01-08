@@ -17,6 +17,15 @@
     <link href="https://fonts.bunny.net/css?family=oswald:200,400,700" rel="stylesheet"/>
 
 </head>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-X1Q722V223"></script>
+
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-X1Q722V223');
+</script>
+
 <body class="antialiased">
 <div
     class="relative sm:flex sm:justify-center sm:items-center min-h-screen bg-dots-darker bg-center bg-gray-100 dark:bg-dots-lighter dark:bg-gray-900 selection:bg-red-500 selection:text-white">

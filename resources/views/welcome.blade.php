@@ -35,7 +35,7 @@
             <x-link-card
                 url="https://www.lanecc.edu/programs-academics/academic-departments/humanities-division/language-studies-department/chinuk-wawa"
                 title="LCC Chinuk Wawa Language Program">
-                The Chinuk Wawa Program at Land Community College began in 2006, in collaboration with the Confederated Tribes of the
+                The Chinuk Wawa Program at Lane Community College began in 2006, in collaboration with the Confederated Tribes of the
                 Grand Ronde Community.
             </x-link-card>
         </div>
