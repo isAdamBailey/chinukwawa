@@ -17,13 +17,14 @@
     <link href="https://fonts.bunny.net/css?family=oswald:200,400,700" rel="stylesheet"/>
 
 </head>
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-X1Q722V223"></script>
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-PNM13E3C96"></script>
 <script>
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
-    gtag('config', 'G-X1Q722V223');
+    gtag('config', 'G-PNM13E3C96');
 </script>
 
 <body class="antialiased">
