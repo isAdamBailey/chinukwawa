@@ -5,7 +5,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
         @vite('resources/css/app.css')
 
-        <title>Chinook Wawa</title>
+        <title>Chinuk Wawa</title>
         <meta name="description" content="Chinook Wawa is the language of the Pacific Northwest.">
         <meta name="keywords" content="Chinook, Chinuk, Wawa, Chinuk Wawa, Jargon, Pacific Northwest, Language, Native American, Indigenous, First Nations, Native, American, Indigenous, First, Nations, Native American Language, Indigenous Language, First Nations Language, American Language, Indigenous Language, First Nations Language, Vancouver, Fort Vancouver, Chinook Jargon">
 
