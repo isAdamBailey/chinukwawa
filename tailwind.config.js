@@ -6,7 +6,12 @@ export default {
         "./resources/**/*.vue",
     ],
   theme: {
-    extend: {},
+    extend: {
+        fontFamily: {
+            'body': ["figtree", "sans-serif"],
+            'header': ["oswald", "sans-serif"],
+        }
+    },
   },
   plugins: [],
 }
