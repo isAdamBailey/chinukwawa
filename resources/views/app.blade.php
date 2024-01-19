@@ -26,13 +26,15 @@
         @inertiaHead
     </head>
 
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-PNM13E3C96"></script>
-    <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
-        gtag('js', new Date());
-        gtag('config', 'G-PNM13E3C96');
-    </script>
+    @if (app()->environment('production'))
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-PNM13E3C96"></script>
+        <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+            gtag('config', 'G-PNM13E3C96');
+        </script>
+    @endif
 
     <body class="font-sans antialiased">
         @inertia
